@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    background: teal;
+}
+.header_logo{
+    color: #FFF;
+    font-size: 21px;
+    font-weight: 700;
+}
+.header_nav{
+    display: flex;
+    column-gap: 15px;
+}
+.header_nav_link{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 18px;
+}
+
+/*
+    light - 300
+    regular - 400
+    semibold - 600
+    bold - 700
+    extrabold - 900
+*/
